@@ -1,4 +1,4 @@
-package com.telran.berlin.homework;
+package com.telran.berlin.homework.one;
 
 public class Main {
     public static void main(String[] args) {

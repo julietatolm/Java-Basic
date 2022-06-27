@@ -1,4 +1,4 @@
-package com.telran.berlin.practice.variables_2.game.hero;
+package com.telran.berlin.homework.two.game.hero;
 
 public class Constant {
     static int ELF_POWER;
