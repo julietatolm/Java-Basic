@@ -1,0 +1,17 @@
+
+r
+Bsrc/main/java/com/telran/berlin/practice/variables_2/Variable.java,f/6/f67a80f7b7da2985013e069866c94772accb7ffd
+p
+@src/main/java/com/telran/berlin/practice/introduction_1/Dog.java,5/0/50f6290c8556e50d967b64ad4ae110d9b039ad7e
+n
+>src/main/java/com/telran/berlin/practice/variables_2/Main.java,4/7/471e16e151f148f7653e18d2d0e7edf5ebcd65ce
+q
+Asrc/main/java/com/telran/berlin/practice/introduction_1/Main.java,0/6/06730e2a9e2884413ee79d33f0d4816bcb5457df
+w
+Gsrc/main/java/com/telran/berlin/practice/variables_2/VariablesMain.java,8/2/8283a92d9d40bc772c415718c8354623fa47e5d6
+q
+Asrc/main/java/com/telran/berlin/practice/introduction_1/Dog2.java,2/0/20e3dee5ac5764ef2b7efdd27b851ce644f69596
+f
+6src/main/java/com/telran/berlin/homework/one/Main.java,f/f/ff3f411e1c0e859e7b2098b8be8dd862dcb96bd4
+t
+Dsrc/main/java/com/telran/berlin/homework/two/game/hero/Constant.java,f/e/fee2c23caa86a4f25828bb1f517bad4517bc0b3c
