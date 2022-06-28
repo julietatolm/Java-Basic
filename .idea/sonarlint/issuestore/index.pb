@@ -15,3 +15,7 @@ f
 6src/main/java/com/telran/berlin/homework/one/Main.java,f/f/ff3f411e1c0e859e7b2098b8be8dd862dcb96bd4
 t
 Dsrc/main/java/com/telran/berlin/homework/two/game/hero/Constant.java,f/e/fee2c23caa86a4f25828bb1f517bad4517bc0b3c
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+o
+?src/main/java/com/telran/berlin/homework/two/game/hero/Elf.java,2/1/2135cd2a20306544a615c4abdc6340b041066b55
