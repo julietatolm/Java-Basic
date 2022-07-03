@@ -2,7 +2,7 @@ package com.telran.berlin.homework.two.game.hero;
 
 import com.telran.berlin.homework.two.game.constant.Constant;
 
-public class Elf {
+public class Ork {
     private int id;
     private String name;
     private String surname;
@@ -11,18 +11,14 @@ public class Elf {
     private char nick;
 
     private int power;
-
     private int charisma;
-
     private int magic;
 
-    public Elf() { }
-
-    public Elf(int id) {
+    public Ork(int id) {
         this.id = id;
-        this.power = Constant.ELF_POWER;
-        this.charisma = Constant.ELF_CHARISMA;
-        this.magic = Constant.ELF_MAGIC;
+        this.power = Constant.ORK_POWER;
+        this.charisma = Constant.ORK_CHARISMA;
+        this.magic = Constant.ORK_MAGIC;
     }
 
     public int getId() { return id; }
@@ -35,9 +31,7 @@ public class Elf {
         return surname;
     }
 
-    public int getHeight() {
-        return height;
-    }
+    public int getHeight() { return height; }
 
     public int getWeight() {
         return weight;
