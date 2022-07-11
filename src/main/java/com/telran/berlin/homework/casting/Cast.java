@@ -19,12 +19,18 @@ public class Cast {
         System.out.println(c + s);
 
 //      3. Используя переменные только типа данных char вывести в консоль "Hello <ваше имя>" (в треугольных скобках должно быть ваше имя)
-        char n1 = (char) 89;
-        char n2 = (char) 117;
-        char n3 = (char) 108;
-        char n4 = (char) 105;
-        char n5 = (char) 97;
-        System.out.println("Hello " + n1 + n2 + n3 + n4 + n5);
+
+        System.out.print((char) 72);
+        System.out.print((char) 101);
+        System.out.print((char) 108);
+        System.out.print((char) 108);
+        System.out.print((char) 111);
+        System.out.print((char) 32);
+        System.out.print((char) 89);
+        System.out.print((char) 117);
+        System.out.print((char) 108);
+        System.out.print((char) 105);
+        System.out.println((char) 97);
 
 //      4. Белочка собрала в лесу N шишек c орешками. Белочка очень привередливо выбирала шишки, и брала только те, в которых ровно M орешков.
 //        Также известно, что для пропитания зимой ей необходимо не менее K орешков. Определите, хватит ли на зиму орешков белочке.
@@ -33,7 +39,7 @@ public class Cast {
 
         Scanner sc = new Scanner(System.in);
 //        System.out.println("Сколько шишек собрала белочка?");
-        System.out.println("Skol'ko shishek?");
+        System.out.println("Skol'ko shishek sobrala belka?");
         int n = sc.nextInt();
 
 //        System.out.println("Сколько орешков было в каждой шишке?");
