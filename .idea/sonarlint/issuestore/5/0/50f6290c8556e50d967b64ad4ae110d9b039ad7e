@@ -1,0 +1,36 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öù¹Ç
+K
+java:S1854"5Remove this useless assignment to local variable "L".(Öù¹Ç
+P
+java:S1854"5Remove this useless assignment to local variable "f".(ß©åðþÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "q".(•ŽÃ’
+U
+java:S1854":Remove this useless assignment to local variable "float1".(èŒ‘ªøÿÿÿÿ
+P
+java:S1854";Remove this useless assignment to local variable "double1".(ëó®O
+P
+java:S1854":Remove this useless assignment to local variable "float1".(¹›¬Ã
+A
+java:S1481"&Remove this unused "a" local variable.(ª·¦°üÿÿÿÿ
+<
+java:S1481"&Remove this unused "b" local variable.(ÛºŠê
+A
+java:S1481"&Remove this unused "c" local variable.(¦û‹ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¡öÞúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Žð“
+N	java:S106"9Replace this use of System.out or System.err by a logger.(í™¬£
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥´ïöøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¡öÞúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(£Õñ¼ùÿÿÿÿ
+A
+java:S1481"+Remove this unused "float1" local variable.(¹›¬Ã
+A
+java:S1481",Remove this unused "double1" local variable.(ëó®O
+<
+java:S1481"&Remove this unused "q" local variable.(•ŽÃ’
+A
+java:S1481"&Remove this unused "f" local variable.(ß©åðþÿÿÿÿ
+<
+java:S1481"&Remove this unused "L" local variable.(Öù¹Ç

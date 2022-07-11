@@ -1,0 +1,9 @@
+
+o
+java:S3008"TRename this field "ELF_POWER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åæü€ûÿÿÿÿ
+r
+java:S3008"WRename this field "ELF_CHARISMA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¤ö­úÿÿÿÿ
+j
+java:S3008"TRename this field "ELF_MAGIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØçÆÂ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ø¡²›ÿÿÿÿÿ

@@ -1,0 +1,9 @@
+
+j
+java:S4144"TUpdate this method so that its implementation is not identical to "main1" on line 7.(ìé¶Š
+P
+java:S6213":Rename this variable to not match a restricted identifier.(ûÄÁ×
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(™áŠóşÿÿÿÿ
+P
+java:S6213":Rename this variable to not match a restricted identifier.(ûÄÁ×
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™áŠóşÿÿÿÿ
