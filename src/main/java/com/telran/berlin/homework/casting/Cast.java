@@ -44,7 +44,7 @@ public class Cast {
 //        System.out.println("Сколько орешков ей надо зимой?");
         int k = sc.nextInt();
 
-        if (n*m > k) {
+        if (n*m >= k) {
             System.out.println("YES");
         }
         else {
