@@ -19,11 +19,11 @@ public class Cast {
         System.out.println(c + s);
 
 //      3. Используя переменные только типа данных char вывести в консоль "Hello <ваше имя>" (в треугольных скобках должно быть ваше имя)
-        char n1 = 'Y';
-        char n2 = 'u';
-        char n3 = 'l';
-        char n4 = 'i';
-        char n5 = 'a';
+        char n1 = (char) 89;
+        char n2 = (char) 117;
+        char n3 = (char) 108;
+        char n4 = (char) 105;
+        char n5 = (char) 97;
         System.out.println("Hello " + n1 + n2 + n3 + n4 + n5);
 
 //      4. Белочка собрала в лесу N шишек c орешками. Белочка очень привередливо выбирала шишки, и брала только те, в которых ровно M орешков.
