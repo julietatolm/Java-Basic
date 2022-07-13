@@ -14,6 +14,7 @@ public class FactoryHero {
     public static void main(String[] args) {
         createElf(3);
         createOrk(3);
+        System.out.println(currentId);
     }
 
     public static void createElf(int count) {
