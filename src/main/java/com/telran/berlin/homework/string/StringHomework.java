@@ -16,7 +16,7 @@ public class StringHomework {
         if(s.contains("Java")) {
             System.out.println("Task 4 contains Java: " + true);
         }
-        else{
+        else {
             System.out.println("Task 4 contains Java: " + false);
         }
 
